@@ -1,0 +1,24 @@
+.center{
+    border-radius: 15px;
+    margin-top: 90px;
+    width: 200px;
+    padding: 100px;
+    box-shadow: 0px 0px 5px 2px gray;
+    background-color: rgb(10, 120, 163);
+}
+ 
+.here{
+      font-size: 30px;
+      color: white;
+}
+.here1{
+    font-size: 18px;
+    width: 170px;
+}
+
+body{
+    background-image: url(https://img.freepik.com/free-vector/abstract-green-waves-background-dynamic-shapes-composition-vector-illustration_1142-13285.jpg);
+     background-size: cover;
+     background-repeat: repeat;
+
+}
